@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.107.206.88:8081/repository/sajid/</url>
+		    <url>http://15.135.202.86:8081/repository/amazon/</url>
 		</repository>
   	</distributionManagement>
 	
